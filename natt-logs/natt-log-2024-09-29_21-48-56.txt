@@ -1,0 +1,9 @@
+[21:48:56][NATTCore][INFO] Entering to the server host mode ...
+[21:48:56][MessageBuffer][INFO] Message buffer created for module with name: email-server
+[21:48:56][SMTPEmailServer][INFO] (email-server) SMTP Email Server is listening on port: 9999
+[21:57:29][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: Test Subject ] Content: ''
+[21:58:43][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: Test Subject ] Content: ''
+[22:00:33][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: TESTING THIS DOGSHIT DOESNT WORK ] Content: ''
+[22:04:45][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: TESTING THIS DOGSHIT DOESNT WORK ] Content: ''
+[22:07:33][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: TESTING THIS DOGSHIT DOESNT WORK ] Content: 'TELO TOHOHLE HOVNA SNAD TO FUNGUJE'
+[22:12:11][MessageBuffer][INFO] Message added to buffer [ Mod: email-server | Tag: TESTING THIS DOGSHIT DOESNT WORK ] Content: 'TELO TOHOHLE HOVNA SNAD TO FUNGUJE'
